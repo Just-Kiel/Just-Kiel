@@ -1,13 +1,14 @@
 ###  Hello there 👋 I am a student at [IMAC](https://www.ingenieur-imac.fr/) (a multimedia engineering school)
 
 **Currently**
- - 💻 Studying in 2nd year at [**IMAC**](https://www.ingenieur-imac.fr/)
+ - 💻 Studying in 3rd year at [**IMAC**](https://www.ingenieur-imac.fr/)
+ - ✈️ Actually in Hakodate, Japan, for a semester abroad
  - 🔎 Looking for new experiments and projects
- - ✈️ Trying to do some original [**boids**](https://github.com/Just-Kiel/IMAC-Prog-S4)
 
 **When I'm bored, I**
  - 🎨 Do stuff with my hands (Crochet, Crafting stuff...)
  - 📷 Try argentic photography
+ - 🎨 3D such as Blender
 
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Just-Kiel&show_icons=true)
 
