@@ -2,7 +2,8 @@
 
 **Currently**
  - 💻 Studying in 3rd year at [**IMAC**](https://www.ingenieur-imac.fr/)
- - ✈️ Actually in Hakodate, Japan, for a semester abroad
+ - 🔨 Actually doing an internship at [**Technicolor Group**](https://www.technicolor.com/) as a **Software Developer** on the [Meshroom](https://github.com/alicevision/Meshroom) open-source project
+ - ✈️ Back from Hakodate, Japan, for a semester abroad
  - 🔎 Looking for new experiments and projects
 
 **When I'm bored, I**
